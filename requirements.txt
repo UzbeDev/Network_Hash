@@ -1,0 +1,4 @@
+colorama==0.4.6
+pyarmor==7.7.4
+pyfiglet==0.8.post0
+termcolor==2.2.0
